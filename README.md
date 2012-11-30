@@ -1,5 +1,5 @@
 #sesskill
-sesskill is a simple unix utility that makes the process of session termination easier.  
+sesskill is a shell program utility that makes the process of session termination easier.  
 It has been developed and tested on a default Debian box, but should work on any Linux-based distro.  
 It has primarily been designed for users/admins who wish to terminate SSH connections, but can be used in other scenarios as well.  
   
